@@ -23,10 +23,11 @@ This repo uses Jupyter Notebooks to analyze student reading and math scores from
   In the updated analysis without the 9th grade scores, the average math score dropped by 0.07 points and the average reading score increased by 0.4 points. The % Passing Math and % Passing English both decreased and the % Overall Passing decreased by 0.3%.
 
 ### Preformance Relative to other Schools
-    Although the % Overall Passing decreased, it did not affect it’s position as the second highest based on the % Overall Passing.
+   Although the % Overall Passing decreased, it did not affect it’s position as the second highest based on the % Overall Passing.
 
 ### Math and Reading Scores By Grade
-    The only difference in the Math and Reading Scores by Grades Summaries is that for 9th Grade Thomas High School has ```NaN``` instead of an average math score of 83.6 and average reading score of 83.7. 
+    
+   The only difference in the Math and Reading Scores by Grades Summaries is that for 9th Grade Thomas High School has ```NaN``` instead of an average math score of 83.6 and average reading score of 83.7. 
     
 ### Scores By School Spending
   Original Spending Summary 
