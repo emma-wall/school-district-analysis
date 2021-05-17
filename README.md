@@ -31,7 +31,7 @@ This repo uses Jupyter Notebooks to analyze student reading and math scores from
     
 ### Scores By School Spending
   Original Spending Summary 
-  [Spending](https://user-images.githubusercontent.com/80648379/118421335-fc556c00-b68e-11eb-9be0-b9c09d112727.png)
+  ![Spending](https://user-images.githubusercontent.com/80648379/118421335-fc556c00-b68e-11eb-9be0-b9c09d112727.png)
 
   Updated Spending Summmary 
   ![Updateed Spending](https://user-images.githubusercontent.com/80648379/118421362-0b3c1e80-b68f-11eb-9be7-f5913e2655af.png)
