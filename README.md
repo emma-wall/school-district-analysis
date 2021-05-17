@@ -42,9 +42,11 @@ This repo uses Jupyter Notebooks to analyze student reading and math scores from
 
 ### Scores By School Size
   Original School Size Summary 
+  
   ![Size](https://user-images.githubusercontent.com/80648379/118421465-46d6e880-b68f-11eb-8370-a41a5a95c219.png)
   
   Updated School Size Summary
+  
   ![Updated Size](https://user-images.githubusercontent.com/80648379/118421553-5eae6c80-b68f-11eb-8d2f-2efc76a2fb01.png)
   
   Thomas High School is considered a medium size high school. From the above it appears the only the % Passing reading changed by -0.1%, all of the other metrics stayed the same. 
