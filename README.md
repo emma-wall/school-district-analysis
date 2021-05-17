@@ -57,4 +57,4 @@ This repo uses Jupyter Notebooks to analyze student reading and math scores from
   Removing the math and reading scores did not have affect the summary by type, all the metrics stayed the same.
 
 ## Summary
-After replacing the 9th grade Thomas High School Scores with ```NaNs``` there was not 
+After replacing the 9th grade Thomas High School Scores with ```NaNs``` there was not a huge difference in the overall analysis. The average math and reading scores both changed, and the % of passing math, reading and overall passing all decreased by less than one percentage point for Thomas High School. These changes however did not affect the school performance relative to the other schools in the district. When looking at the scores by spending per student, size and type only the percent passing reading changed in the spending per student and size summaries. There was no change for school type. 
