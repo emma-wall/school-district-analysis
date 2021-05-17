@@ -4,7 +4,7 @@
 This repo uses Jupyter Notebooks to analyze student reading and math scores from multiple schools in a school district.  I wanted to know the average scores, percentage of passing each and the percentage of overall passing for each school. I also looked at these metrics based on the spending budgets per student, school size and type of school. After further examination of the files and results, it looked like there might be evidence of academic dishonesty with the 9th grade scores at Thomas High School. I reran the analysis removing the math and reading scores for all 9th grade students at Thomas High School. I found that the metrics did not change much by removing the 9th grade scores. 
 
 ## Results
-* School District Summary
+### School District Summary
   Original District Summary
   ![District Summary](https://user-images.githubusercontent.com/80648379/118420263-733d3580-b68c-11eb-9681-aa7649451f27.png)
   
